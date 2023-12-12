@@ -1,0 +1,48 @@
+h1{
+    background-color:burlywood;
+    font-size:xx-large;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight:bold;
+    color:maroon;
+    padding:10px 0px;
+}
+
+
+h3{
+    color: brown;
+    font-size:x-large;
+    font-weight:bold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+h4{
+    color:darkred;
+    font-size:medium;
+    font-weight: 30;
+    
+}
+
+body{
+    background-color:papayawhip;
+}
+
+
+hr{
+    background-color:goldenrod;
+}
+
+h2{
+    color:azure;
+    background-color:darkgoldenrod;
+    font-size:x-large;
+    font-weight:400;
+    font-family:serif;
+    padding: 10px 0px;
+        
+}
+
+
+
+
+
